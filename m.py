@@ -11,7 +11,7 @@ import time
 import string
 import base64
 from bs4 import BeautifulSoup
-from user_agent import 1
+from user_agent import *
 import random
 import string
 import requests
@@ -39,8 +39,8 @@ o=("------------------------------------------------------------")
 print(B+o)
 combo=input(X+'COMBO NAME :Rohan'+X)
 y=open(f'{combo}',"+r")
-token = input('TOKEN YOUR BOT : 7286155827:AAEqsyNYDyh--S0j6NqDIohTllFyHf2zxO4')
-ID = input('ID : 5507897577')
+token = input('7286155827:AAEqsyNYDyh--S0j6NqDIohTllFyHf2zxO4')
+ID = input('5507897577')
 start_num = 0
 F = '\033[2;32m'
 Z= '\033[2;31m'
