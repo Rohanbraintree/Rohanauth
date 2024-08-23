@@ -11,7 +11,7 @@ import time
 import string
 import base64
 from bs4 import BeautifulSoup
-from user_agent import
+from user_agent import 1
 import random
 import string
 import requests
@@ -37,7 +37,7 @@ print(F+"□■"*30)
 print('\t\033[1;31m>>> Join Me Channel @DARKXBINS ');
 o=("------------------------------------------------------------")
 print(B+o)
-combo=input(X+'COMBO NAME :'+X)
+combo=input(X+'COMBO NAME :Rohan'+X)
 y=open(f'{combo}',"+r")
 token = input('TOKEN YOUR BOT : 7286155827:AAEqsyNYDyh--S0j6NqDIohTllFyHf2zxO4')
 ID = input('ID : 5507897577')
