@@ -11,7 +11,7 @@ import time
 import string
 import base64
 from bs4 import BeautifulSoup
-from user_agent import *
+from user_agent import
 import random
 import string
 import requests
